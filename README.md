@@ -1,4 +1,4 @@
-# Medium
+# README First
  This repository contains scripts/notebooks mentioned in my <a href="https://medium.com/@hrishikesh.pe">Medium Stories</a>.
  
  ## Stories

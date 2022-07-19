@@ -9,5 +9,5 @@ Instead of applying each step separately, we can now apply the pipeline to our d
 We must apply the same pre-processing steps used for our train set, onto our test set in the correct order. Having a pipeline of steps reduces the chance of incorrectly applying the steps to test data.
 ### 3. It allows to cross-validate the pre-processing steps (not just the model!) 
 Typically, we only cross-validate our model, not the pre-processing workflow. But with the pipeline, we can easily cross-validate the steps and hence also optimize them as necessary.
-### 4. Finally, it reduces the risk of data leakage.
+### 4. Finally, it reduces the risk of data leakage
 Data leakage occurs when our ML model accidentally sees👀 the test data. And therefore having a pipeline ensures that the relevant method is being applied to the correct subset of data.

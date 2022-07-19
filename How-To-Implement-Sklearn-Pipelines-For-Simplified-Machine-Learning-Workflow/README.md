@@ -1,4 +1,4 @@
-<img src="https://cdn-images-1.medium.com/max/1200/1*Eu3ck29Z0b51iXgEQ5pI-Q.png" width=1000 height=400>
+<img src="https://cdn-images-1.medium.com/max/1200/1*Eu3ck29Z0b51iXgEQ5pI-Q.png" width=1000 height=400 border="5px" >
 
 <a href="https://github.com/hrishi-ds/Medium/tree/main/How-To-Implement-Sklearn-Pipelines-For-Simplified-Machine-Learning-Workflow">This notebook</a> contains the code used in my Medium story regarding how to use sklearn pipelines. 
 
